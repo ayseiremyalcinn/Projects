@@ -1,0 +1,1 @@
+ Grafical user interface ve IoT dosyalarinda bulunan kodlar yarismalar icin hazirladigim kodlardir. Digerleri ise egitim hayatim boyunca yaptigim ufak projelerdir.
