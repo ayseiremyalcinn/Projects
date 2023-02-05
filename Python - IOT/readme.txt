@@ -1,0 +1,2 @@
+Turksat Model Uydu yarışması için yazdığım içinde Esp32 barındıran Pycom wipy3.0 isimli IoT cihazının kodu.
+cihaz uarttan veri alarak telnet aracılığıyla yer istasyonuna veri paketleri yolluyor. Aynı zamanda telemetri paketlerini ve ftp aracılığıyla gelen video dosyasını sd karta kaydediyor.
