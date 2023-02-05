@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "caf6843f-ebfc-492e-aa2a-724d4c97b18e": {
+      "ProjectGuid": "caf6843f-ebfc-492e-aa2a-724d4c97b18e",
+      "DisplayName": "cervos",
+      "ColorIndex": 0
+    },
+    "49de549c-409a-4617-9675-9b14430d2f06": {
+      "ProjectGuid": "49de549c-409a-4617-9675-9b14430d2f06",
+      "DisplayName": "ServerV2.1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "27ce0c32-6ffa-4ea2-8fcd-818b6c69fc8f": {
+      "ProjectGuid": "27ce0c32-6ffa-4ea2-8fcd-818b6c69fc8f",
+      "DisplayName": "Turksat2022",
+      "ColorIndex": 2
+    },
+    "f0e0d865-a1fb-4d14-a8ab-f7cb91f03d93": {
+      "ProjectGuid": "f0e0d865-a1fb-4d14-a8ab-f7cb91f03d93",
+      "DisplayName": "GCS_CDR",
+      "ColorIndex": 3
+    },
+    "8afabe12-a627-4ae2-b427-a60870af1818": {
+      "ProjectGuid": "8afabe12-a627-4ae2-b427-a60870af1818",
+      "DisplayName": "CervosGCS",
+      "ColorIndex": 4
+    },
+    "e6db8427-44e5-41c0-a660-5c3552c5314a": {
+      "ProjectGuid": "e6db8427-44e5-41c0-a660-5c3552c5314a",
+      "DisplayName": "serialData",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
