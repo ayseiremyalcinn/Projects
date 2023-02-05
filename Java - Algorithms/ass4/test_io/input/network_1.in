@@ -1,0 +1,23 @@
+RouterIP:192.168.1.25
+RouterIP:192.168.1.45
+RouterIP:192.168.2.11
+RouterIP:192.168.2.9
+RouterIP:192.168.2.77
+RouterIP:192.168.0.41
+RouterIP:192.168.0.8
+RouterIP:192.168.0.24
+RouterIP:192.168.1.13
+Link:192.168.0.41-192.168.1.13 Bandwidth:200 Mbps
+Link:192.168.0.41-192.168.0.8 Bandwidth:500 Mbps
+Link:192.168.0.24-192.168.0.8 Bandwidth:400 Mbps
+Link:192.168.2.77-192.168.0.24 Bandwidth:250 Mbps
+Link:192.168.2.77-192.168.0.8 Bandwidth:200 Mbps
+Link:192.168.1.45-192.168.2.9 Bandwidth:200 Mbps
+Link:192.168.2.77-192.168.2.9 Bandwidth:500 Mbps
+Link:192.168.2.77-192.168.2.11 Bandwidth:600 Mbps
+Link:192.168.1.25-192.168.1.45 Bandwidth:750 Mbps
+Link:192.168.1.13-192.168.1.25 Bandwidth:900 Mbps
+Link:192.168.1.13-192.168.1.45 Bandwidth:1000 Mbps
+Link:192.168.0.41-192.168.0.24 Bandwidth:1000 Mbps
+Link:192.168.2.11-192.168.2.9 Bandwidth:1000 Mbps
+Link:192.168.1.45-192.168.2.77 Bandwidth:150 Mbps
