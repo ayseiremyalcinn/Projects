@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0e0d865-a1fb-4d14-a8ab-f7cb91f03d93": {
+      "ProjectGuid": "f0e0d865-a1fb-4d14-a8ab-f7cb91f03d93",
+      "DisplayName": "GCS_CDR",
+      "ColorIndex": 0
+    },
+    "286b5110-2af4-436a-9df5-a906519697ca": {
+      "ProjectGuid": "286b5110-2af4-436a-9df5-a906519697ca",
+      "DisplayName": "C4S v1.0",
+      "ColorIndex": 1
+    },
+    "caf6843f-ebfc-492e-aa2a-724d4c97b18e": {
+      "ProjectGuid": "caf6843f-ebfc-492e-aa2a-724d4c97b18e",
+      "DisplayName": "cervos",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "62c5389d-aee4-41a0-af9c-f3014eedc94c": {
+      "ProjectGuid": "62c5389d-aee4-41a0-af9c-f3014eedc94c",
+      "DisplayName": "C4S",
+      "ColorIndex": 3
+    },
+    "3ee8a177-6c82-4cec-a394-e98b4ee10944": {
+      "ProjectGuid": "3ee8a177-6c82-4cec-a394-e98b4ee10944",
+      "DisplayName": "AttitudeIndicator",
+      "ColorIndex": 4
+    },
+    "8afabe12-a627-4ae2-b427-a60870af1818": {
+      "ProjectGuid": "8afabe12-a627-4ae2-b427-a60870af1818",
+      "DisplayName": "CervosGCS",
+      "ColorIndex": 5
+    },
+    "3c1cea0c-3c67-4597-95a9-901df6f180b3": {
+      "ProjectGuid": "3c1cea0c-3c67-4597-95a9-901df6f180b3",
+      "DisplayName": "GCS_pdr",
+      "ColorIndex": 6
+    },
+    "27ce0c32-6ffa-4ea2-8fcd-818b6c69fc8f": {
+      "ProjectGuid": "27ce0c32-6ffa-4ea2-8fcd-818b6c69fc8f",
+      "DisplayName": "Turksat2022",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

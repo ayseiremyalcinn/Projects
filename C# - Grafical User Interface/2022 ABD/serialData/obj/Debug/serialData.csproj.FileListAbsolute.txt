@@ -1,0 +1,10 @@
+C:\Users\aysei\source\repos\serialData\bin\Debug\serialData.exe.config
+C:\Users\aysei\source\repos\serialData\bin\Debug\serialData.exe
+C:\Users\aysei\source\repos\serialData\bin\Debug\serialData.pdb
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.Form1.resources
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.Properties.Resources.resources
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.csproj.GenerateResource.cache
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.csproj.CoreCompileInputs.cache
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.exe
+C:\Users\aysei\source\repos\serialData\obj\Debug\serialData.pdb
